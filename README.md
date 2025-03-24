@@ -12,8 +12,6 @@ html
 - les differents breackpoints avec outil @media
 
   ----en----
-  # Travel Agency Website Project
-
 This project involves creating a website for a travel agency as a practical application of learned skills:
 
 ## HTML
